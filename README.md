@@ -1,6 +1,7 @@
 # React buttons
-
-> The sandbox on TOP did not work, neither did the forking.
-> Here's an alternate repo using the same code for those who need it
+> The sandbox on TOP did not work, neither did the forking,  
+> so here's an alternate repo using the same code for those who need it.  
+> (And want it locally)
+> 
 >
-> Thanks to Hana in the TOP discord!
+> Thanks to Hana in the TOP discord! ^^
