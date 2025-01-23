@@ -6,12 +6,28 @@
 
 .App {
   display: flex;
+  flex-direction: column;
   justify-content: space-around;
   align-items: center;
   flex-wrap: wrap;
   width: 100vw;
   height: 100vh;
   transition: all 0.1s ease-in;
+}
+
+.count-container {
+  background-color: #242424;
+  color: white;
+  padding: 2rem;
+  border-radius: 1rem;
+}
+
+.buttons-container{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  flex-wrap: wrap;
+  width: 100vw;
 }
 
 .App button {
